@@ -1,0 +1,11 @@
+name: ElrolianBarrels
+main: com.github.elrol.ElrolianBarrels.ElrolianBarrels
+version: Alpha v0.1
+api-version: 1.13
+author: Elrol_Arrowsend
+website: https://www.github.com/Elrol/
+softdepend: [Towny]
+commands:
+    givebarrel:
+        description: Gives the sender a the specified barrel
+        usage: /GiveBarrel [tier]
